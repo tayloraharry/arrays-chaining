@@ -1,15 +1,5 @@
 # Chaining Array Methods
 
-## Setup
-
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below and paste. It doesn't matter what directory you are currently in.
-
-```bash
-mkdir -p ~/workspace/exercises/spa/chaining && cd $_
-touch index.html
-touch chaining.js
-```
-
 ## Instructions
 
 Using one single line of JavaScript code, complete the following tasks on the array of integers below.
